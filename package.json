@@ -1,6 +1,6 @@
 {
   "name": "javascript_prog",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A learning package manager.",
   "main": "index.js",
   "scripts": {
